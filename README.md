@@ -40,19 +40,19 @@ console.log("Welcome to the future of software development! 🌟");
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="23%" align="center">
 
 ### 🎨 **Creative Solutions**
 We blend artistry with technology to create software that doesn't just work—it *inspires*.
 
 </td>
-<td width="33%" align="center">
+<td width="23%" align="center">
 
 ### ⚡ **Performance First**
 Every line of code is optimized for speed, efficiency, and scalability.
 
 </td>
-<td width="33%" align="center">
+<td width="23%" align="center">
 
 ### 🤝 **Collaborative Spirit**
 We believe the best solutions emerge from diverse minds working together.
