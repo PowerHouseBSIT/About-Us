@@ -181,4 +181,6 @@ Every great project starts with a single commit. Your contribution could be the 
 
 <sub>Made with ❤️ by the Bytescraft Team | Est. 2019 | Crafting Excellence Since Day One</sub>
 
+<sub>🖕Fuck you Adrian🖕</sub>
+
 </div>
